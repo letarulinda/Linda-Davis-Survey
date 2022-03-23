@@ -1,0 +1,27 @@
+nav {
+  background-color: black;
+}
+.Love button {
+  background-color: grey;
+}
+.View Editor {
+  background-color: gray;
+}
+.Sign Up {
+  background-color: green;
+}
+.Login {
+  background-color: gray;
+}
+form {
+  text-align: center;
+}
+.submit button {
+  background-color: green;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
